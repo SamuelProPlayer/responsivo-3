@@ -25,17 +25,15 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
-  
-
  {
-<img src="img/tor-512.webp">
+<img src= "img/tor-512.webp">
     width: 100,
     height: 165,
-    size: (2,4)
+    size: (2,4),
   }
    {
-<img src="img/download.jpeg">
+<img src= "img/download.jpeg">
     width: 100,
     height: 165,
-    size: (2,4)
+    size: (2,4),
   }
