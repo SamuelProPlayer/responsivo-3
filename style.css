@@ -26,9 +26,9 @@ body {
     font-weight: 400;
 }
   
-<style>
+
  {
-    src: "img/tor-512.webp",
+src: "img/tor-512.webp",
     width: 100,
     height: 165,
     size: (2,4)
@@ -39,4 +39,3 @@ body {
     height: 165,
     size: (2,4)
   }
-  </style>
