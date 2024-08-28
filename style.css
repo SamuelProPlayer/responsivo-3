@@ -25,11 +25,18 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
-<img src="img/tor-"   
-
-LOGO TOR: {
+  
+<style>
+ {
     src: "img/tor-512.webp",
     width: 100,
     height: 165,
     size: (2,4)
   },
+   {
+    src: "img/download.jpeg",
+    width: 100,
+    height: 165,
+    size: (2,4)
+  },
+  </style>
