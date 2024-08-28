@@ -28,13 +28,13 @@ body {
   
 
  {
-src: "img/tor-512.webp",
+<img src="img/tor-512.webp">
     width: 100,
     height: 165,
     size: (2,4)
   }
    {
-    src: "img/download.jpeg",
+<img src="img/download.jpeg">
     width: 100,
     height: 165,
     size: (2,4)
